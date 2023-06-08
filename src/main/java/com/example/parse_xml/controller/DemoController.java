@@ -17,7 +17,7 @@ public class DemoController {
 
     @GetMapping("/get")
     public ResponseEntity getDemo(){
-        DemoModel demoModel = demoService.parseCourse();
+        DemoModel demoModel = demoService.parseXml();
         return ResponseEntity.status(200).body(demoModel);
     }
 }

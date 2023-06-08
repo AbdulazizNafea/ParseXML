@@ -15,7 +15,7 @@ public class DemoService {
 
     private final Logger logger = LoggerFactory.getLogger(DemoService.class);
 
-    public DemoModel parseCourse() {
+    public DemoModel parseXml() {
         DemoModel demoModel = null;
 
         try {
