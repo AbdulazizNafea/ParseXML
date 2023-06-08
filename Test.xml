@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<demo>
+   <test id="1444">
+      <author>Aziz</author>
+      <title>XML Developer's Guide</title>
+      <status>NACK</status>
+      <transactionReferenceNumber>4404208</transactionReferenceNumber>
+      <requestDate>2000-10-01</requestDate>
+      <description>Parse Xml from outside api and return Json data</description>
+   </test>
+</demo>
